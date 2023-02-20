@@ -70,7 +70,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '226265609466',
     projectId: 'what-for-dinner-d0f94',
     storageBucket: 'what-for-dinner-d0f94.appspot.com',
-    iosClientId: '226265609466-afjhb58sputcm3fopvr9lguifl50ahj4.apps.googleusercontent.com',
+    iosClientId:
+        '226265609466-afjhb58sputcm3fopvr9lguifl50ahj4.apps.googleusercontent.com',
     iosBundleId: 'pt.castanho.eatermeals',
   );
 }
