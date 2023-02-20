@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "226265609466",
+    "project_id": "what-for-dinner-d0f94",
+    "storage_bucket": "what-for-dinner-d0f94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226265609466:android:1813eb9ec9f570d7090543",
+        "android_client_info": {
+          "package_name": "pt.castanho.eater_meals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226265609466-1b1ft0nlcg0m0e0pfmch31edl376elmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHaquphRUOLUVqNCWw_uKcd8WlH9Vb-UE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226265609466-1b1ft0nlcg0m0e0pfmch31edl376elmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226265609466:android:83cb957b8a703a3a090543",
+        "android_client_info": {
+          "package_name": "pt.castanho.eatermeals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226265609466-1b1ft0nlcg0m0e0pfmch31edl376elmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHaquphRUOLUVqNCWw_uKcd8WlH9Vb-UE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226265609466-1b1ft0nlcg0m0e0pfmch31edl376elmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
