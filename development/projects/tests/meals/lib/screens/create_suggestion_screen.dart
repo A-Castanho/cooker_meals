@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/container.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:meals/domain/meal.dart';
+import 'package:meals/domain/models/meal.dart';
 
 class CreateSuggestionScreen extends StatefulWidget {
   CreateSuggestionScreen({super.key});
@@ -57,6 +57,6 @@ class _CreateSuggestionScreenState extends State<CreateSuggestionScreen> {
   }
 
   _submit() async {
-    Meal(null, name: _nameController.text, description: _descriptionController.text);
+    
   }
 }

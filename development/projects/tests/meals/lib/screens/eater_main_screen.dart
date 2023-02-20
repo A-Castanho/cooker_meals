@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/container.dart';
 import 'package:flutter/src/widgets/framework.dart';
-import 'package:meals/domain/meal.dart';
+import 'package:meals/domain/models/meal.dart';
 import 'package:meals/screens/create_suggestion_screen.dart';
 
 class EaterMainScreen extends StatelessWidget {

@@ -1,19 +1,19 @@
-import 'package:meals/domain/ingredient.dart';
+import 'package:meals/domain/models/ingredient.dart';
 
 class Meal {
   String? id;
   final String name;
   final String? description;
-  final String? imagePath;
-  MealDetails? details;
+  final String imagePath;
+//  MealDetails? details;
 
-  Meal(id,
-      {required this.name, this.description, this.imagePath, this.details});
+  Meal(id, {required this.name, this.description, required this.imagePath});
 }
 
-class MealDetails {
+/* class MealDetails {
   final List<Ingredient> ingredients;
   final List<Ingredient> steps;
 
   MealDetails({required this.ingredients, required this.steps});
 }
+ */

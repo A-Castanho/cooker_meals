@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/container.dart';
 import 'package:flutter/src/widgets/framework.dart';
 
-import '../domain/meal.dart';
+import '../domain/models/meal.dart';
 
 class MealsListScreen extends StatelessWidget {
   const MealsListScreen({super.key});
