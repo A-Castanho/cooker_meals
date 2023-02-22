@@ -2,7 +2,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
 import 'firebase_options.dart';
-import 'screens/auth_screen_v2.dart';
+import 'screens/auth_screen.dart';
 import 'screens/eater_main_screen.dart';
 
 void main() async {
